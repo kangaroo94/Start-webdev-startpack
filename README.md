@@ -1,5 +1,14 @@
 <h1 align="center">--Start-webdev-startpack--</h2>
 <br>
+<p align="center">
+
+<img src="https://img.shields.io/badge/made%20by-kangaroo-orange.svg" > 
+
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
+
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+</p>
+
 <img src="https://file.modx.pro/files/2/f/8/2f8c3614a38abb4c96eb8736e5c84401.jpg" />
 
 <h2 align="center">Описание</h2>
@@ -85,4 +94,5 @@ npm install название_пакета --save-prod
     - файл `index.html`.
 - `app` *(для итоговых файлов; будет создана после первой сборки)*;
 
-и файлы: `gulpfile.js`, `package.json`, `package-lock.json`, `.editorconfig`, `.stylelintrc`, `.gitignore`, `README.md` Файл `gulpfile.js` - содержит задачи для сборщика проекта Gulp. Файл `.stylelintrc` - содержит установленные параметры по конфигурации и распределению разметки стилей (файл незначительный! Без должного понимания работы `stylelint` лучше не использовать! Установленные условия, внутри файла можно менять под собственные условия! Для работы с `stylelint` нужно установить: расширения `stylelint для стилей` в `VSCode` + `npm` пакеты: `stylelint-declaration-block-no-ignored-properties`, `stylelint-scss`, `stylelint-order`). Файл `.editorconfig` - содержит общие установленные параметры. 
+и файлы: `gulpfile.js`, `package.json`, `package-lock.json`, `.editorconfig`, `.stylelintrc`, `.gitignore`, `README.md` Файл `gulpfile.js` - содержит задачи для сборщика проекта Gulp. Файл `.stylelintrc` - содержит установленные параметры по конфигурации и распределению разметки стилей (файл незначительный! Без должного понимания работы `stylelint` лучше не использовать! Установленные условия, внутри файла можно менять под собственные условия! Для работы с `stylelint` нужно установить: расширения `stylelint для стилей` в `VSCode` + `npm` пакеты: `stylelint-declaration-block-no-ignored-properties`, `stylelint-scss`, `stylelint-order`). Файл `.editorconfig` - содержит общие установленные параметры.
+<hr>
