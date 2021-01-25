@@ -1,0 +1,27 @@
+# Файлы и папки операционной системы
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+.vs
+
+# Файлы редактора
+.idea
+*.sublime*
+.vscode
+
+# Вспомогательные файлы
+*.log*
+node_modules/
+reports/
+package.lock.json
+
+
+# Папка с собранными файлами проекта
+# app/
+
+
+
+
+
+

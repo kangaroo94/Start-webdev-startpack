@@ -1,0 +1,18 @@
+* {padding: 0px;margin: 0px;border: 0px;}
+*,*::before,*::after {-moz-box-sizing: inherit;-webkit-box-sizing: inherit;box-sizing: inherit;}
+:focus,:active {outline: none;}
+a:focus,a:active {outline: none;}
+aside,nav,footer,header,section {display: block;}
+html,body {position:relative;min-width: $minWidth;}
+html {box-sizing: border-box;}
+body {height: 100%;overflow-x: hidden;line-height: 1;font-size: 14px;font-family: Arial, Helvetica, sans-serif;-moz-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;}
+input,button,textarea {font-family: inherit;}
+input::-ms-clear {display: none;}
+button {cursor: pointer;}
+button::-moz-focus-inner {padding: 0;border: 0;}
+a,a:visited {text-decoration: none;color: inherit;}
+ul,li {list-style: none;margin: 0;padding: 0;}
+img {vertical-align: top;}
+h1,h2,h3,h4,h5,h6 {font-weight: inherit;font-size: inherit;margin: 0;}
+ul,ol,li,p,h1,h2,h3,h4,h5,h6 {margin: 0;padding: 0;}
+button:focus,input:focus {outline: transparent;}
