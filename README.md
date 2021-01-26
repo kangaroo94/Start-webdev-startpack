@@ -1,19 +1,22 @@
 <h1 align="center">--Start-webdev-startpack--</h2>
 <br>
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/made%20by-binkovskyi94-orange.svg" > 
+<a href="https://github.com/binkovskyi94"><img src="https://img.shields.io/badge/made%20by-binkovskyi94-orange.svg?style=plastic&logo=github"></a> <a href="https://github.com/binkovskyi94/Start-webdev-startpack"><img src="https://img.shields.io/badge/-downloads-green.svg?style=plastic&logo="></a>
+</div> 
 
-<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
+<div align="center">
 
-<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
-</p>
+![HTML](https://img.shields.io/badge/-HTML-orange?style=plastic&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS3-blue?style=plastic&logo=CSS3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=JavaScript) ![Sass](https://img.shields.io/badge/-Sass-pink?style=plastic&logo=Sass) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=plastic&logo=Bootstrap) ![Jquery](https://img.shields.io/badge/-Jquery-0769AD?style=plastic&logo=Jquery) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=plastic&logo=Webpack) ![BABEL](https://img.shields.io/badge/-BABEL-F9DC3E?style=plastic&logo=BABEL) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=plastic&logo=NPM) ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=plastic&logo=Gulp) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=Node.js)
+</div>
 
 <img src="https://file.modx.pro/files/2/f/8/2f8c3614a38abb4c96eb8736e5c84401.jpg" />
 
 <h2 align="center">Описание</h2>
 
 - Сборка Gulp 4 + webpack с плагинами для Frontend разработки
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=binkovskyi94&show_icons=true&theme=tokyonight)
 
 <h2 align="center">Требования к окружению</h2>
 Необходимо иметь следующие установленные инструменты:<br>
@@ -94,7 +97,14 @@ npm install название_пакета --save-prod
     - файл `index.html`.
 - `app` *(для итоговых файлов; будет создана после первой сборки)*;
 
-> - Файлы: `gulpfile.js`, `package.json`, `package-lock.json`, `.editorconfig`, `.stylelintrc`, `.gitignore`, `README.md` 
-> - Файл `gulpfile.js` - содержит задачи для сборщика проекта Gulp. Файл `.stylelintrc` - содержит установленные параметры по конфигурации и распределению разметки стилей (файл незначительный! Без должного понимания работы `stylelint` лучше не использовать! Установленные условия, внутри файла можно менять под собственные условия! Для работы с `stylelint` нужно установить: расширения `stylelint для стилей` в `VSCode` + `npm` пакеты: `stylelint-declaration-block-no-ignored-properties`, `stylelint-scss`, `stylelint-order`). 
-> - Файл `.editorconfig` - содержит общие установленные параметры.
-<hr>
+ - Файлы: `gulpfile.js`, `package.json`, `package-lock.json`, `.editorconfig`, `.stylelintrc`, `.gitignore`, `README.md` 
+ - Файл `gulpfile.js` - содержит задачи для сборщика проекта Gulp. Файл `.stylelintrc` - содержит установленные параметры по конфигурации и распределению разметки стилей (файл незначительный! Без должного понимания работы `stylelint` лучше не использовать! Установленные условия, внутри файла можно менять под собственные условия! Для работы с `stylelint` нужно установить: расширения `stylelint для стилей` в `VSCode` + `npm` пакеты: `stylelint-declaration-block-no-ignored-properties`, `stylelint-scss`, `stylelint-order`). 
+ - Файл `.editorconfig` - содержит общие установленные параметры.
+
+### Follow me
+
+<p align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=GitHub)](https://github.com/binkovskyi94)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=plastic&logo=Telegram)](https://t.me/evgeny_binkovskyi)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=Instagram)](https://www.instagram.com/evgeny_binkovskyi)
