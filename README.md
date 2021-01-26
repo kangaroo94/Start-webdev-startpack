@@ -10,7 +10,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=plastic&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS3-blue?style=plastic&logo=CSS3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=JavaScript) ![Sass](https://img.shields.io/badge/-Sass-pink?style=plastic&logo=Sass) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=plastic&logo=Bootstrap) ![Jquery](https://img.shields.io/badge/-Jquery-0769AD?style=plastic&logo=Jquery) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=plastic&logo=Webpack) ![BABEL](https://img.shields.io/badge/-BABEL-F9DC3E?style=plastic&logo=BABEL) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=plastic&logo=NPM) ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=plastic&logo=Gulp) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=Node.js)
 </div>
 
-<img src="https://file.modx.pro/files/0/e/9/0e9d4efa80f14c670273cc55961a693e.png" />
+<img src="https://file.modx.pro/files/a/1/c/a1c54076c96029a70c7c3979a64c6a42.png" />
 
 <h2 align="center">Описание</h2>
 
