@@ -16,8 +16,6 @@
 
 - Сборка Gulp 4 + webpack с плагинами для Frontend разработки
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=binkovskyi94&show_icons=true&theme=tokyonight)
-
 <h2 align="center">Требования к окружению</h2>
 Необходимо иметь следующие установленные инструменты:<br>
 
