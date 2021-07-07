@@ -90,6 +90,4 @@ npm install название_пакета --save-prod
 
 <p align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=GitHub)](https://github.com/binkovskyi94)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=plastic&logo=Telegram)](https://t.me/evgeny_binkovskyi)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=Instagram)](https://www.instagram.com/evgeny_binkovskyi)
+
