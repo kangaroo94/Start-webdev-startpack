@@ -2,8 +2,7 @@
 <br>
 <div align="center">
 
-<a href="https://github.com/binkovskyi94"><img src="https://img.shields.io/badge/made%20by-binkovskyi94-orange.svg?style=plastic&logo=github"></a> <a href="https://github.com/binkovskyi94/Start-webdev-startpack"><img src="https://img.shields.io/badge/-downloads-green.svg?style=plastic&logo="></a>
-</div> 
+
 
 <div align="center">
 
